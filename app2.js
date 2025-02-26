@@ -1,9 +1,6 @@
 // Agregar amigos
 let listaAmigos = [];
 
-document.querySelector("#agregarAmigo").addEventListener("click", agregarAmigo);
-document.querySelector("#sortearAmigo").addEventListener("click", sortearAmigo);
-
 function agregarAmigo() {
     // Obtener el valor del input
     let nombreAmigo = document.querySelector("#amigo").value.trim();
