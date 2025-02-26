@@ -19,7 +19,6 @@ Para completar el reto, recurrí a diversas fuentes, entre ellas:
 - 📚 El curso de **Alura**
 - 🎥 **Videos instructivos**
 - 🤖 **Luri (IA del curso)**
-- 🧠 **Otras inteligencias artificiales**
 - 💬 **Comentarios de mis compañeros**
 - 🔄 **Práctica mediante ensayo y error**
 
