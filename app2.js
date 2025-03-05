@@ -36,3 +36,4 @@ function sortearAmigo() {
     let amigoSecreto = listaAmigos[sortearAmigo];
     document.getElementById("resultado").innerHTML = `<span style="color: black;">El amigo secreto es:</span> ${amigoSecreto}`;
 }
+document.getElementById("sortearAmigo").disabled = true;
